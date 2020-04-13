@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/API/bin
+/API/obj
+/API/Properties/PublishProfiles
+/Core/bin
+/Core/obj
+/Domain/bin
+/Domain/obj
+/Model/bin
+/Model/obj
+/Service/bin
+/Service/obj
+/WebApp/dist
+/WebApp/node_modules
